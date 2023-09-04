@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+.bodyMio {
+  background-color: #4b4d40;
+  color: #fff;
+}
+
+.containerMio {
+  text-align: center;
+  position: relative;
+  width: auto;
+  height: auto;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+div {
+    margin: 100px;
+}
